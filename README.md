@@ -1,13 +1,13 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
 <p align="center">
-<a href="https://www.linkedin.com/in/amisha-gupta-53b072170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amishagupta" height="30" width="30" /></a>&nbsp;
-<a href="amishagupta725@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="amishagupta" height="30" width="30" /></a>&nbsp;
-</p>
+<samp>
+I'm Amisha Gupta. I am a Software developer and a full-stack MERN web developer. My prime goal is to utilize my
+education in the field of technology to help to bring newer and innovative things to make human lives happy and comfortable. I am motivated to pursue field of technology because it is the area where I can do my excellence and justice to myself using all the skills that I have acquired during all these years which will be helpful in making human lives more meaningful.
+</samp>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" > About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" > ##About Me:
 
 - 🏦 I'm a Software Developer
 - 📝 I am a full stack web developer and also have keen interest in Machine Learning domain.
@@ -25,3 +25,9 @@
 <a><img src="https://img.shields.io/badge/Kibana-282C34?logo=Kibana&logoColor=764ABC" alt="Kibana logo" title="Kibana" height="25" /></a>
 <a><img src="https://img.shields.io/badge/D3.js-282C34?logo=D3.js&logoColor=4B32C3" alt="D3.js logo" title="D3.js" height="25" /></a>
 <a><img src="https://img.shields.io/badge/Machine Learning-282C34?logo=Machine Learning&logoColor=F05032" alt="Machine Learning logo" title="Machine Learning" height="25" /></a>
+
+## Contact me :speech_balloon:
+
+Get in touch with me!
+
+:e-mail: <a href="mailto:amishagupta725@gmail.com">Send an e-mail</a>
