@@ -1,4 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<br>
+<br>
 <p align="center" style="font-size:8px; margin-top:30px">
 I'm Amisha Gupta. I am a Software developer and a full-stack MERN web developer. My prime goal is to utilize my
 education in the field of technology to help to bring newer and innovative things to make human lives happy and comfortable.
