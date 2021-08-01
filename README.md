@@ -1,7 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center" style="font-size:12px">
+<p align="center" style="font-size:8px; margin-top:30px">
 I'm Amisha Gupta. I am a Software developer and a full-stack MERN web developer. My prime goal is to utilize my
-education in the field of technology to help to bring newer and innovative things to make human lives happy and comfortable. I am motivated to pursue field of technology because it is the area where I can do my excellence and justice to myself using all the skills that I have acquired during all these years which will be helpful in making human lives more meaningful.
+education in the field of technology to help to bring newer and innovative things to make human lives happy and comfortable.
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
