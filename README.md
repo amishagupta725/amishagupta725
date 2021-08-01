@@ -17,11 +17,9 @@
 
 ## 🛠  Technologies and tools
 
-## 🛠  Technologies and tools
-
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/ReactJs-282C34?logo=Reactjs&logoColor=3178C6" alt="ReactJS logo" title="ReactJS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/ReactJs-282C34?logo=reactjs&logoColor=3178C6" alt="ReactJS logo" title="ReactJS" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=E34F26" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
 &nbsp;
